@@ -16,7 +16,7 @@ len(list2)
 dir(list)
 dir(tuple)
 dir(list) #functions which can be operated on list type of DS
-sorted(list2)
+    sorted(list2)
 list2
 list2[2]  #index starts from 0,1,...
 list2[2] = 'Z'  #list is mutable, ie. values can be changed
