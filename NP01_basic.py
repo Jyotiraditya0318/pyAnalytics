@@ -73,7 +73,7 @@ x3
 #functions to create arrays
 zeros = np.zeros(shape=(2,3))
 zeros 
-
+ 
 ones = np.ones(shape=(3,2))
 ones  
 
